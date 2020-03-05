@@ -3,12 +3,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import Navbar from './components/Navbar';
 import Jumbotron from './components/Jumbotron';
+import MainProjSection from './components/mainProjSection';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
     <> 
     <Navbar />
     <Jumbotron />
+    <MainProjSection />
     </>,
      document.getElementById('root'));
 
