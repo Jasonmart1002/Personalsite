@@ -6,7 +6,7 @@ function Navbar() {
     <nav class="navbar navbar-expand-lg">
       <a class="navbar-brand name" href="#">Jason F. Martinez</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
+        <span class="navbartoggle"><i class="fas fa-bars"></i></span>
       </button>
 
       <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
