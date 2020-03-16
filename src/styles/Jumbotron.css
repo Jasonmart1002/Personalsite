@@ -12,6 +12,7 @@
 .jumbosup {
     color: #03DAA0;    
     font-size: 60px;
+    user-select: none;
 }
 
 .jumbotron {
