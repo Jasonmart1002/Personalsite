@@ -1,11 +1,11 @@
 .mainJumbo{
-    background-color: #FFFFD5;
+    background-color: rgb(110, 110, 110);
     padding: 32px;
 }
 
 .jumbomain{
     font-size: 16px;
-    color: black;
+    color: rgb(255, 255, 255);
     font-weight: bold;
 }
 

@@ -4,6 +4,7 @@ import './index.css';
 import Navbar from './components/Navbar';
 import Jumbotron from './components/Jumbotron';
 import MainProjSection from './components/mainProjSection';
+import ProjectCards from './components/projectCards';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
@@ -11,6 +12,7 @@ ReactDOM.render(
     <Navbar />
     <Jumbotron />
     <MainProjSection />
+    <ProjectCards />
     </>,
      document.getElementById('root'));
 
