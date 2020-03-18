@@ -3,7 +3,7 @@ import '../styles/mainProjSection.css';
 
 function MainProjSection() {
   return (
-    <div className="card mb-3">
+    <div className="card">
       <div className="row no-gutters align-items-center">
         
         <div className="col-md-8">

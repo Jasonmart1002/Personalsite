@@ -1,13 +1,16 @@
 .name{
-  color: #03DAA0;
+  /* color: #03DAA0; */
+  color: rgb(255, 255, 255);
   font-size: 33px;
 }
 
+
+
 .links{
-  color: black;
+  color: rgb(255, 255, 255);
   font-size: 16px;
 }
 
 .navbar{
-  /* background-color: #FFFFD5;   */
+    background-color: rgb(58, 58, 58);
 }
